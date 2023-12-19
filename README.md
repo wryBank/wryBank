@@ -11,8 +11,9 @@ I am ready to learn about both the business and technology aspects.
 2020 - Present | Siam University | Bachelor of Science Faculty of Computer Science.
 
 ---
+
+### Tech & Tool 
 <div id="toolBadges" align="center">
-  <a href="https://www.linkedin.com/in/wrybank"target="_blank">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode Badge"/ >
 </a>
 
