@@ -1,9 +1,12 @@
-### Hi ###
+### Hi 
 ---
-### AboutMe 👦🏻 ###
+
+### AboutMe 👦🏻 
 interested in technology Metaverse, Web3, Blockchain, VR & AR, AI and StartUp businesses,
 I am ready to learn about both the business and technology aspects.
+
 ---
+
 ### Education 🎓
 2020 - Present Siam University | Bachelor of Science Faculty of Computer Science.
 <div id="badges" align="center">
