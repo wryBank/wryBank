@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi 
+### AboutMe
+I am interested in technology and StartUp businesses, and I am ready to learn about both the business and technology aspects
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/wrybank"target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ >
   </a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=wryBank&style=flat-square&color=blue" alt="counter"/>
 </div>
 <!--
