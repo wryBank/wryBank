@@ -1,6 +1,7 @@
 ### Hi 
 ### AboutMe 👦🏻
-I am interested in technology Metaverse Web3 Blockchain VR & AR and StartUp businesses, and I am ready to learn about both the business and technology aspects
+interested in technology Metaverse, Web3, Blockchain, VR & AR, AI and StartUp businesses,
+I am ready to learn about both the business and technology aspects.
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/wrybank"target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ >
