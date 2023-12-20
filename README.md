@@ -24,7 +24,7 @@ I am ready to learn about both the business and technology aspects.
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/ >
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/ >
 
-</a>
+</a> </div>
 
 ---
 
