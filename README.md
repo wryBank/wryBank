@@ -29,7 +29,9 @@ I am ready to learn about both the business and technology aspects.
 ---
 
 ### Contest & Events :
-- 1st The Metaverse Camp Hackathon
+- [1st] The Metaverse Camp Hackathon
+- Siam UBI pitching day 2023
+- Hackulture 2023 illuminate Thai 
 
 
 <div id="badges" align="center">
