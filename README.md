@@ -12,7 +12,7 @@ I am ready to learn about both the business and technology aspects.
 
 ---
 
-### 🛠 Tech & Tool 
+### 🛠 Language & Tool :
 <div id="toolBadges" align="center">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/ >
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS Badge"/ >
@@ -27,6 +27,10 @@ I am ready to learn about both the business and technology aspects.
 </a>
 
 ---
+
+### Contest & Events :
+ - 1st The Metaverse Camp Hackathon
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/wrybank"target="_blank">
