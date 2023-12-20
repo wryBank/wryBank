@@ -29,7 +29,7 @@ I am ready to learn about both the business and technology aspects.
 ---
 
 ### Contest & Events :
- - 1st The Metaverse Camp Hackathon
+-1st The Metaverse Camp Hackathon
 
 
 <div id="badges" align="center">
